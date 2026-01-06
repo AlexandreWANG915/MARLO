@@ -190,6 +190,19 @@ export AZURE_OPENAI_API_KEY=your_api_key
 export AZURE_OPENAI_ENDPOINT=your_endpoint
 ```
 
-## License
+## Acknowledgments
 
-This project is released for academic research purposes.
+This implementation builds upon the RAGEN framework. For more details about RAGEN, see:
+
+```bibtex
+@misc{ragen,
+      title={RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning}, 
+      author={Zihan Wang and Kangrui Wang and Qineng Wang and Pingyue Zhang and Linjie Li and Zhengyuan Yang and Xing Jin and Kefan Yu and Minh Nhat Nguyen and Licheng Liu and Eli Gottlieb and Yiping Lu and Kyunghyun Cho and Jiajun Wu and Li Fei-Fei and Lijuan Wang and Yejin Choi and Manling Li},
+      year={2025},
+      eprint={2504.20073},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2504.20073}, 
+}
+```
+
